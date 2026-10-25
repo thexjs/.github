@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thexjs/x/main/examples/landing/public/files/thexjs-logo.svg" width="120" alt="Thexjs logo" />
+  <img src="https://raw.githubusercontent.com/thexjs/x/main/examples/landing/public/icon-512.png" width="140" alt="Thexjs logo" />
   <h1>Thexjs</h1>
   <p><strong>A full-stack React framework built natively on Bun.</strong></p>
   <p>File-based routing, islands, SSR/SSG, API routes, and server functions — in one process, with no separate bundler stack.</p>
