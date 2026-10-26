@@ -49,6 +49,8 @@ The scaffolder is feature-based — pick `tailwind`, `auth`, `content`, `hooks`,
 - [Discussions](https://github.com/thexjs/x/discussions)
 - [Issues](https://github.com/thexjs/x/issues)
 - [Contributing](https://github.com/thexjs/x/blob/main/CONTRIBUTING.md)
+- [Support](https://github.com/thexjs/x/blob/main/SUPPORT.md)
+- [Code of Conduct](https://github.com/thexjs/x/blob/main/CODE_OF_CONDUCT.md)
 - [Security policy](https://github.com/thexjs/x/blob/main/SECURITY.md)
 - [Roadmap](https://github.com/thexjs/x/blob/main/ROADMAP.md)
 
