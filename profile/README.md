@@ -54,4 +54,4 @@ The scaffolder is feature-based — pick `tailwind`, `auth`, `content`, `hooks`,
 - [Security policy](https://github.com/thexjs/x/blob/main/SECURITY.md)
 - [Roadmap](https://github.com/thexjs/x/blob/main/ROADMAP.md)
 
-Thexjs is maintained on a best-effort basis. It is a learning-oriented project — treat it as curiosity software rather than a production dependency.
+Thexjs is maintained by the [@thexjs/maintainers](https://github.com/orgs/thexjs/teams/maintainers) team on a best-effort basis. It is a learning-oriented project — treat it as curiosity software rather than a production dependency.
